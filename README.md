@@ -8,6 +8,9 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh Panwar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<p><img align="right" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif" alt="gif" /></p>
+
+
 - 🌱 I’m currently learning **Computer Vision and LLM**
 
 - 👯 I’m looking to collaborate on **projects related to data analysis, AI and ML**
