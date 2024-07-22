@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pspanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pspanwar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prashant singh panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashant singh panwar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prashant_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashant_singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prashantpanwar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashant singh panwar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/a7V8Qtju7U/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashant_singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
