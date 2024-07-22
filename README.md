@@ -1,7 +1,7 @@
 
-<p align=”center”>
+<p align="center">
 
-<img width=”200" height=”200" src=”https://github.com/PPanwar29/Image-/issues/3" alt=”my banner”>
+<img width="200" height="200" src="https://github.com/PPanwar29/Image-/issues/3" alt="my banner">
 
 </p>
 
