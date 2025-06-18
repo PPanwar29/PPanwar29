@@ -10,11 +10,11 @@
 <p><img align="right" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif" alt="gif" /></p>
 
 
-- 🌱 I’m currently learning **Computer Vision and LLM**
+- 🌱 I’m currently learning DevOps
 
-- 👯 I’m looking to collaborate on **projects related to data analysis, AI and ML**
+- 👯 I’m looking to collaborate on **projects related to Software Development, SaaS**
 
-- 💬 Ask me about **Python, SQL, Data Analysis, ML**
+- 💬 Ask me about **Python, SQL, System Design, MERN**
 
 - 📫 How to reach me **pspanwar2972@gmail.com**
 
